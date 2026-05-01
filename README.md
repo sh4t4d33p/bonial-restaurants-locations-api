@@ -39,7 +39,7 @@ No Docker, database, or external services are required for the default run: data
 ## Quick start
 
 ```bash
-cd /path/to/coding-challenge-backend
+cd /path/to/bonial-restaurants-locations-api
 npm install
 npm run dev
 ```
